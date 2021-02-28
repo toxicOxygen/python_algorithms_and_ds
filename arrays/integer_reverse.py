@@ -10,5 +10,5 @@ def reverseInteger(num):
 
 
 if __name__ == "__main__":
-  n = reverseInteger(1234)
+  n = reverseInteger(123944189111234)
   print(n)

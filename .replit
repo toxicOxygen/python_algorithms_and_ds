@@ -1,2 +1,2 @@
 language = "bash"
-run = "python3 arrays/integer_reverse.py"
+run = "python3 arrays/duplicate.py"
